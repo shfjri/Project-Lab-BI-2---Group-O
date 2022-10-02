@@ -1,0 +1,5 @@
+landing_page,group,visit,sales,conversion_rate
+new_page,control,1928,234,0.12136929460580913
+new_page,treatment,145311,17264,0.11880724790277405
+old_page,control,145274,17489,0.1203863045004612
+old_page,treatment,1965,250,0.1272264631043257

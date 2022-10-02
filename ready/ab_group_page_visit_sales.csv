@@ -1,0 +1,5 @@
+group,landing_page,visit,sales
+control,new_page,1928,234
+control,old_page,145274,17489
+treatment,new_page,145311,17264
+treatment,old_page,1965,250
